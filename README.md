@@ -1,2 +1,2 @@
-# Thunder free installation
-下载安装即可使用，详细请看说明
+# C-Stealer-Tool
+（窃取信用卡/借记卡信息）
